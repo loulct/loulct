@@ -22,19 +22,25 @@ Here are some ideas to get you started:
 
 ## 📫 [LinkedIn](https://www.linkedin.com/in/lecart-louis)
 
+<!--## 🤔 [Leetcode](https://leetcode.com/u/lou025)-->
+
 ## ⚡ Technologies
 
 Languages
 
 ![Languages](https://skillicons.dev/icons?i=python,java,c,cpp)
 
+![Frontend Technologies](https://skillicons.dev/icons?i=html,css,js,ts)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loulct&layout=compact&theme=calm)
+
 Databases
 
 ![Database](https://skillicons.dev/icons?i=mysql,postgres,mongodb)
 
-Frontend
+Web Tools & Frameworks
 
-![Frontend Technologies](https://skillicons.dev/icons?i=html,css,js,ts,vite)
+![Frontend Technologies](https://skillicons.dev/icons?i=vite,laravel)
 
 API
 
