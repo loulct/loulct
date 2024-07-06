@@ -34,7 +34,7 @@ Databases
 
 Frontend
 
-![Frontend Technologies](https://skillicons.dev/icons?i=html,css,js,vite)
+![Frontend Technologies](https://skillicons.dev/icons?i=html,css,js,ts,vite)
 
 API
 
@@ -52,9 +52,13 @@ Text Editors & IDE
 
 ![Text Editors](https://skillicons.dev/icons?i=latex,neovim,idea,vscode,visualstudio,markdown,sublime)
 
-Toolkit
+Toolkits
 
 ![Toolkit](https://skillicons.dev/icons?i=gtk,threejs,qt)
+
+Tools
+
+![Toolkit](https://skillicons.dev/icons?i=sklearn,tensorflow)
 
 OS
 
