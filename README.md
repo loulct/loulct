@@ -15,7 +15,7 @@ Languages
 
 ![Languages](https://skillicons.dev/icons?i=python,java,c,cpp)
 
-![Frontend Technologies](https://skillicons.dev/icons?i=html,css,js,ts)
+![Frontend Technologies](https://skillicons.dev/icons?i=ts,html,css,js,scss)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loulct&layout=compact&theme=calm)
 
@@ -25,11 +25,11 @@ Databases
 
 Web Tools & Frameworks
 
-![Frontend Technologies](https://skillicons.dev/icons?i=vite,laravel)
+![Frontend Technologies](https://skillicons.dev/icons?i=react,next,vite,laravel)
 
 API
 
-![API](https://skillicons.dev/icons?i=postman)
+![API](https://skillicons.dev/icons?i=flask,postman)
 
 Build & package managers
 
