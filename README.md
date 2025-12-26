@@ -1,7 +1,7 @@
 # Hello world ! I am Louis Lecart aka loulct 👋
 
-## 🌱 GitHub Stats
-![loulct's GitHub stats](https://github-readme-stats.vercel.app/api?username=loulct&show_icons=true&theme=calm&include_all_commits=true&hide_rank=true&hide=stars,issues,contribs)
+<!-- ## 🌱 GitHub Stats
+![loulct's GitHub stats](https://github-readme-stats.vercel.app/api?username=loulct&show_icons=true&theme=calm&include_all_commits=true&hide_rank=true&hide=stars,issues,contribs) -->
 
 ## 🔭 [Personal Website (Github Pages)](https://loulct.github.io)
 
