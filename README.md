@@ -17,7 +17,7 @@ Languages
 
 ![Frontend Technologies](https://skillicons.dev/icons?i=ts,html,css,js,scss)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loulct&layout=compact&theme=calm)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loulct&layout=compact&theme=calm)-->
 
 Databases
 
