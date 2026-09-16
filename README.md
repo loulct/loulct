@@ -30,7 +30,7 @@
 ### <sub>2024 - 2027</sub> B.A. Philosophy, Paris-Nanterre University
 ### <sub>2018 - 2023</sub> M.Sc. Computer Science, Paris Higher Institute of Electronics
 - Specialization: Information Systems Architecture
-- University exchange: Chalmers University of Technology
+- University exchange: **Chalmers University of Technology**
 
 ## Tech Stack
 
