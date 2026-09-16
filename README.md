@@ -30,7 +30,7 @@ Text Editors & IDE
 
 Libs
 
-![Toolkit](https://skillicons.dev/icons?i=flask,qt,threejs,tk)
+![Toolkit](https://skillicons.dev/icons?i=flask,qt,threejs)
 
 Linux Distros
 
