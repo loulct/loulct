@@ -1,60 +1,37 @@
 # Hello world ! I am Louis Lecart aka loulct 👋
 
-<!-- ## 🌱 GitHub Stats
-![loulct's GitHub stats](https://github-readme-stats.vercel.app/api?username=loulct&show_icons=true&theme=calm&include_all_commits=true&hide_rank=true&hide=stars,issues,contribs) -->
-
 ## 🔭 [Personal Website (Github Pages)](https://loulct.github.io)
 
 ## 📫 [LinkedIn](https://www.linkedin.com/in/lecart-louis)
-
-<!--## 🤔 [Leetcode](https://leetcode.com/u/lou025)-->
 
 ## ⚡ Technologies
 
 Languages
 
-![Languages](https://skillicons.dev/icons?i=python,java,c,cpp)
+![Languages](https://skillicons.dev/icons?i=python,java,cpp)
 
-![Frontend Technologies](https://skillicons.dev/icons?i=ts,html,css,js,scss)
-
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loulct&layout=compact&theme=calm)-->
+![Frontend Technologies](https://skillicons.dev/icons?i=ts,js)
 
 Databases
 
-![Database](https://skillicons.dev/icons?i=mysql,postgres,mongodb)
+![Database](https://skillicons.dev/icons?i=postgres,mysql,mongodb)
 
-Web Tools & Frameworks
+Frameworks
 
-![Frontend Technologies](https://skillicons.dev/icons?i=react,next,vite,laravel)
-
-API
-
-![API](https://skillicons.dev/icons?i=flask,postman)
+![Frontend Technologies](https://skillicons.dev/icons?i=next,vite)
 
 Build & package managers
 
-![Package Managers](https://skillicons.dev/icons?i=gradle,maven,npm)
-
-Git
-
-![Git](https://skillicons.dev/icons?i=git,github,gitlab)
+![Package Managers](https://skillicons.dev/icons?i=npm,gradle,maven)
 
 Text Editors & IDE
 
-![Text Editors](https://skillicons.dev/icons?i=latex,neovim,idea,vscode,visualstudio,markdown,sublime)
+![Text Editors](https://skillicons.dev/icons?i=latex,neovim)
 
-Toolkits
+Libs
 
-![Toolkit](https://skillicons.dev/icons?i=gtk,threejs,qt)
+![Toolkit](https://skillicons.dev/icons?i=flask,qt,threejs)
 
-Tools
+Linux Distros
 
-![Toolkit](https://skillicons.dev/icons?i=sklearn,tensorflow)
-
-OS
-
-![OS](https://skillicons.dev/icons?i=debian,windows)
-
-Fun
-
-![Fun](https://skillicons.dev/icons?i=ableton,arduino)
+![OS](https://skillicons.dev/icons?i=debian,arch)
