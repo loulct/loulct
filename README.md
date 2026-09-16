@@ -22,7 +22,7 @@ Frameworks
 
 Build & package managers
 
-![Package Managers](https://skillicons.dev/icons?i=uv,npm,gradle,maven)
+![Package Managers](https://skillicons.dev/icons?i=npm,gradle,maven)
 
 Text Editors & IDE
 
